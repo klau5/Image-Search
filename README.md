@@ -1,6 +1,8 @@
 A simple React app to search for images online using Unsplash API.
 Axios for request handling.
 
+======================================================================================================================================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
